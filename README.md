@@ -1,1 +1,3 @@
-Repositório para entrega de atividade de backend turma 14 FULL-STACK SENAI 
+Repositório para entrega de atividade de backend.
+Turma 14 FULL-STACK 
+SENAI/SP
